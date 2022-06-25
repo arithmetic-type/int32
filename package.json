@@ -1,7 +1,7 @@
 {
   "name": "@arithmetic-type/int32",
   "description": "32-bit signed integer arithmetic and logic operators for JavaScript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://arithmetic-type.github.io/int32",
